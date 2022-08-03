@@ -1,5 +1,6 @@
 # When2WorkExport
 Exports When2Work month by month schedule to JSON file
+
 Coded in a single line for the fun of it
 
 ## Usage
